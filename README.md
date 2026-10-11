@@ -53,10 +53,10 @@ Estou construindo minha trajetória na área de tecnologia por meio dos estudos,
 Tenho interesse em programação, desenvolvimento de sistemas, análise de dados e Inteligência Artificial. Meu objetivo é transformar o conhecimento adquirido em soluções úteis, aprimorar minhas habilidades e conquistar uma oportunidade profissional na área de tecnologia.
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas.
-- 🟨 Cursando JavaScript.
-- 🐍 Cursando Python.
-- 🗄️ Cursando SQL.
-- 🤖 Cursando Inteligência Artificial.
+- 💻 Aprendendo e praticando diferentes tecnologias.
+- 📚 Buscando evoluir por meio de projetos práticos.
+- 🤝 Aberto a oportunidades de estágio e início de carreira em tecnologia.
+- 🚀 Comprometido com o aprendizado contínuo e o desenvolvimento profissional.
 
 ## 🛠️ Tecnologias e conhecimentos em desenvolvimento
 
